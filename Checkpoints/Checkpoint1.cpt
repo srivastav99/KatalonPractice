@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\Katalon\Projects\DemoProject\testdata\testdata_DataDrivenDemo.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2023-11-30T11:23:04.803+05:30</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "admin@yourstore.com",
+      "checked": true
+    },
+    {
+      "value": "RAIVpflpDOg\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "abc@cedc.com",
+      "checked": true
+    },
+    {
+      "value": "RAIVpflpDOg\u003d",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

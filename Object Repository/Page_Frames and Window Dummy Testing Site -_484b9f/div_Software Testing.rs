@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Software Testing</name>
+   <tag></tag>
+   <elementGuidId>3b859f79-7b84-4643-8b0b-441471bc8770</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#filter_list > li:nth-of-type(3) > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='filter_list']/li[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f764333a-e029-4385-9fbd-7d1b5e4531a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-value</name>
+      <type>Main</type>
+      <value>.softwaretesting</value>
+      <webElementGuid>10cd1523-5ee4-4ed6-bed0-ce741b6a7e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software Testing</value>
+      <webElementGuid>d963c8a3-d81d-4597-8e78-3eec393bc610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter_list&quot;)/li[3]/div[1]</value>
+      <webElementGuid>c1a68330-ff1d-496b-a527-c7a2eb04fd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Frames and Window Dummy Testing Site -_484b9f/iframe_br</value>
+      <webElementGuid>009a147d-5a22-4c39-b7d6-4c1d8209850b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='filter_list']/li[3]/div</value>
+      <webElementGuid>a445f904-f6aa-4bf0-82bd-67f2a0060925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[3]/div</value>
+      <webElementGuid>20a12d2d-477b-4fc4-a789-9bbb70511b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Software Testing' or . = 'Software Testing')]</value>
+      <webElementGuid>09e42a7b-e647-4326-a8d9-294f522a5dc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
